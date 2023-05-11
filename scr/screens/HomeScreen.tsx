@@ -1,6 +1,5 @@
-import { View, FlatList, StyleSheet } from 'react-native'
+import { View, StyleSheet } from 'react-native'
 import React from 'react'
-import CharacterComp from '../components/CharacterComp'
 import Pagination from '../components/Pagination'
 import Search from '../components/Search'
 import Skeleton from '../components/Skeleton'
