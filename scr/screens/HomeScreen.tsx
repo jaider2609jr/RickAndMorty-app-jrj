@@ -31,23 +31,6 @@ const HomeScreen = () => {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-    },
-    containerIndicator: {
-        alignItems: 'center',
-        position: 'absolute',
-        top: 62,
-        right: '43%',
-        zIndex: 1
-    },
-    indicator: {
-        justifyContent: 'center',
-        padding: 5,
-        marginHorizontal: 5,
-        borderWidth: 1,
-        borderColor: '#D3D3D3',
-        borderRadius: 50,
-        backgroundColor: 'white',
-        elevation: 7,
     }
 });
 
