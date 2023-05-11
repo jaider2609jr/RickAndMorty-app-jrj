@@ -1,4 +1,4 @@
-import { View, Text } from 'react-native'
+import { View } from 'react-native'
 import { Skel } from 'react-native-ui-skel-expo'
 import React from 'react'
 

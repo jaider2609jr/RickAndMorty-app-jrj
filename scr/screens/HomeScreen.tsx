@@ -23,7 +23,6 @@ const HomeScreen = () => {
                 }}
                 showsVerticalScrollIndicator={false}
             />}
-            
         </View>
     )
 }
